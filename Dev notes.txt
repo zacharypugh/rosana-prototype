@@ -1,0 +1,13 @@
+Project rosana-500214
+
+Instance name: safety-db
+Password: OOqX9lrh&agT_SC5
+Public IP: 34.148.223.74
+
+django_user
+`Q*I?-^-=G`;lr$R
+
+Django users
+Admin (pin3flO#)
+TestUser (gre3frO#)
+
